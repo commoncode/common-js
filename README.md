@@ -1,4 +1,4 @@
-# commonjs
-#### CC's styleguides, boilerplate and docs for JS best practices
+# JS Commons
 
-[Read the Wiki!](https://github.com/commoncode/common-js/wiki/) because that's where most of the content lives.
++ [Welcome](https://github.com/commoncode/common-js/issues/1)
++ The [Wiki](https://github.com/commoncode/common-js/wiki/) is where most of the content lives.
